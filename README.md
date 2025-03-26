@@ -1,9 +1,6 @@
 # ASD-CFG
 ASD-CFG is a config for Team Fortress 2 made for low end pc try to offer good fps without disabling ragdolls and sprays.
 
->[!TIP]
->If you want High Graphics see the Jacket's Version Branch!
-
 ## LAUNCH OPTIONS
 >[!important]
 > Customize this launch options with your monitor information or the resolution you want.
